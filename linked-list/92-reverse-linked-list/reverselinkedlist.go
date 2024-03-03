@@ -13,6 +13,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// Time O(N) | Space O(1)
 func reverseBetween(head *ListNode, left int, right int) *ListNode {
 	// 构建虚拟头结点, 避免复杂的边界判断
 	// pre: left所在的前一个结点

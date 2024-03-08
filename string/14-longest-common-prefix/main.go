@@ -1,5 +1,7 @@
 package main
 
+// https://leetcode.com/problems/longest-common-prefix/
+// Time: O(mn) | Space: O(1)
 func longestCommonPrefix(strs []string) string {
 	if len(strs) == 0 {
 		return ""

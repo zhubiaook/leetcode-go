@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "6be75c7365a102d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7596126595f76bcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdc0d5bf47c53d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "array/88-merged-sorted-array/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "679b0a935932fcfb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfe42242bd3c3e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b5aae8e33b17c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d26eb90155eb5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "308c3b46f5e8d996",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a816d6635f42b7df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95993af3d7c5288d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fe22b5a2019cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c34b34f6f1ecf93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "array/88-merged-sorted-array/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bf3b482bc7605a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "array/88-merged-sorted-array/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b89aa541c5ccd82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ade97ac5e2b7f108",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "array/88-merged-sorted-array/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "679b0a935932fcfb",
+  "lastOpenFiles": [
+    "linked-list/92-reverse-linked-list/README.md"
+  ]
+}
